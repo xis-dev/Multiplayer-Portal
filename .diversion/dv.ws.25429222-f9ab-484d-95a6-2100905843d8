@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.25429222-f9ab-484d-95a6-2100905843d8",
+  "RepoID": "dv.repo.bc53ff54-c656-46fc-93bf-2ec34b0c2220",
+  "Path": "C:\\Users\\PC\\Desktop\\School\\Game Engines\\GE2\\GEII_Project2",
+  "AccountID": "Google_110049795915582645004",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.54",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "GEII_Project2",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "EDUCATION"
+}
